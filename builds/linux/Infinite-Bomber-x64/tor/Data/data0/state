@@ -1,0 +1,36 @@
+# Tor state file last generated on 2020-02-29 22:20:11 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+Guard in=default rsa_id=9E654F92F84908427A2EABFF43349BCC32838F1D nickname=Reichsfunkmast sampled_on=2020-02-22T10:52:18 sampled_by=0.3.5.9-dev listed=1 confirmed_on=2020-02-25T21:26:32 confirmed_idx=0 pb_use_attempts=6.000000 pb_use_successes=6.000000 pb_circ_attempts=12.000000 pb_circ_successes=12.000000 pb_successful_circuits_closed=10.000000 pb_collapsed_circuits=2.000000
+Guard in=default rsa_id=8663544D21107C4EAC437E80498B9E02EEC5C1A2 nickname=osipetz sampled_on=2020-02-24T05:01:31 sampled_by=0.3.5.9-dev listed=1
+Guard in=default rsa_id=B28B3C6D87FCA7E2C7EAFA65F6EB897E57819E80 nickname=Unnamed sampled_on=2020-02-21T19:08:10 sampled_by=0.3.5.9-dev listed=1
+Guard in=default rsa_id=11DF0017A43AF1F08825CD5D973297F81AB00FF3 nickname=gGDHjdcC6zAlM8k08lX sampled_on=2020-02-19T07:28:31 sampled_by=0.3.5.9-dev listed=1
+Guard in=default rsa_id=D1F2C5C820B3F96BE6144CBFB84FDDF9D0EC0810 nickname=t4cc0reTor5 sampled_on=2020-02-19T09:55:54 sampled_by=0.3.5.9-dev listed=1
+Guard in=default rsa_id=9063C7EC4A3273446DC05E9310A5C5B2F4235696 nickname=mj3 sampled_on=2020-02-25T03:27:44 sampled_by=0.3.5.9-dev listed=1
+Guard in=default rsa_id=AB73816E5D7BC52664CBB9D005FF579BAFEAFE87 nickname=Unnamed sampled_on=2020-02-19T15:00:00 sampled_by=0.3.5.9-dev listed=1 confirmed_on=2020-02-23T21:55:03 confirmed_idx=1
+Guard in=default rsa_id=4561FC085C3F3A7271FE960317F02DCD1E9C1188 nickname=chonk sampled_on=2020-02-28T22:44:27 sampled_by=0.3.5.9-dev listed=1 confirmed_on=2020-02-21T16:40:49 confirmed_idx=2
+Guard in=default rsa_id=7FA3FA525901A91A1310B817943668BC2C16289E nickname=Nisos sampled_on=2020-02-17T22:46:40 sampled_by=0.3.5.9-dev listed=1
+Guard in=default rsa_id=AE95BDA37A5BB4685FEBB7F06649D6CE949B5316 nickname=Unnamed sampled_on=2020-02-18T12:37:50 sampled_by=0.3.5.9-dev listed=1
+Guard in=default rsa_id=D56A98D38FC3C75E0347EEF3DD9C12749AF7C7C5 nickname=sTORch sampled_on=2020-02-28T14:43:55 sampled_by=0.3.5.9-dev listed=1
+Guard in=default rsa_id=0C6CA58153400FA077EABB14773E36FD61BF0D75 nickname=lamomieauguste sampled_on=2020-02-18T11:05:39 sampled_by=0.3.5.9-dev listed=1
+Guard in=default rsa_id=D80EA21626BFAE8044E4037FE765252E157E3586 nickname=bonjour1 sampled_on=2020-02-18T17:10:47 sampled_by=0.3.5.9-dev listed=1
+Guard in=default rsa_id=E14F6B387A832AC0F50564128B1E2BD409F1D3BD nickname=variable sampled_on=2020-02-19T01:51:35 sampled_by=0.3.5.9-dev listed=1
+Guard in=default rsa_id=F0C9513539800F762ECAE37F16370D7CBA5E52C2 nickname=Scrubs sampled_on=2020-02-20T19:01:30 sampled_by=0.3.5.9-dev listed=1
+Guard in=default rsa_id=3CE90527D5712296B58E7EB7CD57F7D388D25FBB nickname=modupe sampled_on=2020-02-24T00:42:22 sampled_by=0.3.5.9-dev listed=1
+Guard in=default rsa_id=5FFA2972F24CAFBF6FBDE37D78AE8D55DB92E1A8 nickname=Quo5ni3W sampled_on=2020-02-22T06:28:43 sampled_by=0.3.5.9-dev listed=1
+Guard in=default rsa_id=3616653FCEC4E1B82A41DC5445426C925DA202C6 nickname=martyr1 sampled_on=2020-02-22T17:11:33 sampled_by=0.3.5.9-dev listed=1
+Guard in=default rsa_id=52D5FB2004C67127C73B71478238FA66122BD443 nickname=hellebuz sampled_on=2020-02-18T03:48:30 sampled_by=0.3.5.9-dev listed=1
+Guard in=default rsa_id=1C7D71A2581DE79C5CFC4ED1FF75D5BE30F01BB7 nickname=BabyOnion sampled_on=2020-02-20T01:51:34 sampled_by=0.3.5.9-dev listed=1
+TorVersion Tor 0.3.5.9-dev (git-da728e36f4579907)
+LastWritten 2020-02-29 21:20:11
+TotalBuildTimes 12
+CircuitBuildTimeBin 225 3
+CircuitBuildTimeBin 275 2
+CircuitBuildTimeBin 375 1
+CircuitBuildTimeBin 425 1
+CircuitBuildTimeBin 525 1
+CircuitBuildTimeBin 625 1
+CircuitBuildTimeBin 725 1
+CircuitBuildTimeBin 975 1
+CircuitBuildTimeBin 1475 1
