@@ -1,0 +1,32 @@
+# Tor state file last generated on 2020-04-24 19:21:53 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+Guard in=default rsa_id=2096BCFEBB95A1134F39FCF8CEB076FF41A2B48B nickname=freja sampled_on=2020-04-15T19:52:12 sampled_by=0.4.1.5 listed=1
+Guard in=default rsa_id=F741E5124CB12700DA946B78C9B2DD175D6CD2A1 nickname=rofltor06 sampled_on=2020-04-24T16:37:04 sampled_by=0.4.1.5 listed=1
+Guard in=default rsa_id=DF7AA16E1A6037C5FCBB4DED4F3A6CD262CA3799 nickname=tornado sampled_on=2020-04-14T08:03:35 sampled_by=0.4.1.5 listed=1 confirmed_on=2020-04-16T23:11:18 confirmed_idx=1 pb_circ_attempts=1.000000 pb_circ_successes=1.000000 pb_successful_circuits_closed=1.000000
+Guard in=default rsa_id=B630BE802A803403F4BBEDF1C4B7BE7B31A89305 nickname=kr3pper2 sampled_on=2020-04-22T10:54:15 sampled_by=0.4.1.5 listed=1
+Guard in=default rsa_id=38F21DEE29E40DCDF9460A80662B7723562CA008 nickname=trabajando sampled_on=2020-04-24T04:51:04 sampled_by=0.4.1.5 listed=1
+Guard in=default rsa_id=BF4114C3C4CC1E8C889C9D0F52253B269208FF3B nickname=tripoli3 sampled_on=2020-04-18T23:18:24 sampled_by=0.4.1.5 listed=1
+Guard in=default rsa_id=BFA905EA10DFD54A38A0C119FAE00182DE4C173B nickname=stalag sampled_on=2020-04-21T03:17:41 sampled_by=0.4.1.5 listed=1 confirmed_on=2020-04-18T17:20:12 confirmed_idx=2
+Guard in=default rsa_id=E97DAC45ED2AB46DD830A279BDCC7AFCE10EE674 nickname=niftywatersgerbil sampled_on=2020-04-24T13:03:13 sampled_by=0.4.1.5 listed=1
+Guard in=default rsa_id=BAF223E9DF62D3261F1675C6CFC4E5D50F15FA57 nickname=darkwizard sampled_on=2020-04-23T09:20:01 sampled_by=0.4.1.5 listed=1
+Guard in=default rsa_id=DD0AA66DD9E4E71FFAFAB658DF8300F1CEEA0364 nickname=flowjob04 sampled_on=2020-04-20T16:17:07 sampled_by=0.4.1.5 listed=1
+Guard in=default rsa_id=1944F3A473CB77B12BDB4E3D15963A24DF58E4E7 nickname=Thrones sampled_on=2020-04-22T00:32:00 sampled_by=0.4.1.5 listed=1
+Guard in=default rsa_id=00E1649E69FF91D7F01E74A5E62EF14F7D9915E4 nickname=dragonhoard sampled_on=2020-04-17T19:43:11 sampled_by=0.4.1.5 listed=1
+Guard in=default rsa_id=DD32C3ECC3521D58D7E9D7E0E343B700FB24E5A7 nickname=free2play sampled_on=2020-04-23T09:20:59 sampled_by=0.4.1.5 listed=1
+Guard in=default rsa_id=0B19BBFDC498CCEA23027B1D7BD8E20121B95E60 nickname=StarAppsMR01 sampled_on=2020-04-19T00:57:06 sampled_by=0.4.1.5 listed=1
+Guard in=default rsa_id=567221DD586D0E388A6859FB33C09696BD20151B nickname=VRchat sampled_on=2020-04-17T09:15:19 sampled_by=0.4.1.5 listed=1
+Guard in=default rsa_id=837D5EA513DF7FDDA36BE569C646151CDA4B9935 nickname=Brexit sampled_on=2020-04-24T00:01:49 sampled_by=0.4.1.5 listed=1
+Guard in=default rsa_id=0367E1FFAB716AC3F418CFB7CBB3BDB9403CD9CB nickname=asagudentor sampled_on=2020-04-19T15:43:01 sampled_by=0.4.1.5 listed=1
+Guard in=default rsa_id=769A297017BB5E92A9A5A3D76725CA12D694AA30 nickname=sosa sampled_on=2020-04-16T07:07:59 sampled_by=0.4.1.5 listed=1
+Guard in=default rsa_id=088A6237EED87EDEB0E1E3AD0A4A419F963F0787 nickname=Unnamed sampled_on=2020-04-23T21:08:05 sampled_by=0.4.1.5 listed=1 confirmed_on=2020-04-13T07:29:43 confirmed_idx=0 pb_use_attempts=3.000000 pb_use_successes=3.000000 pb_circ_attempts=7.000000 pb_circ_successes=7.000000 pb_successful_circuits_closed=7.000000
+Guard in=default rsa_id=75EE3430CEF7744EA1E35607881B27581EB15880 nickname=deceptiveSimplicity sampled_on=2020-04-24T16:19:08 sampled_by=0.4.1.5 listed=1
+TorVersion Tor 0.4.1.5 (git-439ca48989ece545)
+LastWritten 2020-04-24 17:21:53
+TotalBuildTimes 8
+CircuitBuildTimeBin 275 3
+CircuitBuildTimeBin 325 2
+CircuitBuildTimeBin 375 1
+CircuitBuildTimeBin 425 2
+Dormant 0
